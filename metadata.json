@@ -1,0 +1,8 @@
+{
+  "name": "EcoGuard: Carbon Credit Risk Analyzer",
+  "description": "A data science assistant for detecting anomalies in carbon credit emission claims, focusing on risk scoring, statistical grouping, and ethical reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
